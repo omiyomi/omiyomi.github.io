@@ -1,5 +1,4 @@
-#Smart Forms Compliance Agent 
-
+# Smart Forms Compliance Agent 
 A multi-step reasoning agent built with Microsoft Foundry to automate Smart form validation, compliance checks, and correction recommendations.
 
 ## 🧠 Overview  
