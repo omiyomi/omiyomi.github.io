@@ -1,9 +1,9 @@
 #Smart Forms Compliance Agent 
 
-A multi-step reasoning agent built with Microsoft Foundry to automate federal form validation, compliance checks, and correction recommendations.
+A multi-step reasoning agent built with Microsoft Foundry to automate Smart form validation, compliance checks, and correction recommendations.
 
 ## 🧠 Overview  
-The Federal Forms Compliance Agent analyzes any government form text and performs a structured, multi-step review:
+The Smart Forms Compliance Agent analyzes any government form text and performs a structured, multi-step review:
 
 1. Extracts fields  
 2. Validates completeness and consistency  
@@ -11,7 +11,7 @@ The Federal Forms Compliance Agent analyzes any government form text and perform
 4. Recommends corrections  
 5. Generates a final compliance summary  
 
-This agent is designed for federal modernization, reducing manual review time and improving accuracy.
+This agent is designed for Smart modernization, reducing manual review time and improving accuracy.
 
 ## 🚀 Features  
 - Multi-step reasoning workflow  
