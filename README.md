@@ -10,7 +10,7 @@ The Smart Forms Compliance Agent analyzes any government form text and performs 
 4. Recommends corrections  
 5. Generates a final compliance summary  
 
-This agent is designed for Smart modernization, reducing manual review time and improving accuracy.
+This agent is designed for modernization, reducing manual review time and improving accuracy.
 
 ## 🚀 Features  
 - Multi-step reasoning workflow  
